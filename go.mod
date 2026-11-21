@@ -2,6 +2,8 @@ module github.com/moistello/backend
 
 go 1.26.0
 
+toolchain go1.26.1
+
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/alicebob/miniredis/v2 v2.38.0
